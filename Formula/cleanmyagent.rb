@@ -3,8 +3,8 @@ class Cleanmyagent < Formula
 
   desc "Audit what your coding agents' skills/plugins/MCP cost vs how much you use them"
   homepage "https://github.com/JungHoonGhae/cleanmyagent"
-  url "https://github.com/JungHoonGhae/cleanmyagent/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "04dc14229559fe04a05cd24ea24921295eb15016cd53b9a07b080a2fe8d27670"
+  url "https://github.com/JungHoonGhae/cleanmyagent/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "4a910cb452d473da42f7b833b49bb2680e5d3ff603299fc91d010fc6ac47debf"
   license "MPL-2.0"
 
   depends_on "python@3.13"
